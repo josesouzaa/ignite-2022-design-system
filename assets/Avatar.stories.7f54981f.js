@@ -1,0 +1,2 @@
+import{A as t}from"./index.6853459a.js";import"./index.e9b1b950.js";import"./iframe.2e7a64b8.js";import"./index.232f1178.js";import"./jsx-runtime.983254b4.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/josesouzaa.png",alt:"Jos\xE9 de Souza"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.7f54981f.js.map
